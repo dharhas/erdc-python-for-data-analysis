@@ -18,16 +18,17 @@ The workshop will involve hands on coding throughout each session.
 
 ## Course Outline
 
-### MORNING
-  - Introduction to Jupyter Notebook (15 min)
-  - Analyzing tabular data
-  - Repeating actions with loops
-  - Analyzing data from multiple files 
-  - Making Choices
-  - Building Functions
+### MORNING (8:30 - 12:30)
+  - Introduction (15 min)
+  - Python Basics (60 min) - Data Types, Lists, Tuples, Dicts, Loops & Functions
+  - Break (15 mins)
+  - Analyzing Weather Data - Numpy, Pandas & Timeseries Data 
+  - Break (10 mins)
+  - Analyze an Image
+
 
 ### AFTERNOON
-  - Putting it all Together 
+  - Analyzing Automobile Data using Pandas
     - Cars Data Analysis Example
   - Python Development
     - Picking an IDE
