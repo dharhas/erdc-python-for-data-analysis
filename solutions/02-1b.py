@@ -25,6 +25,6 @@ def plot_data(fname):
     fig.tight_layout()
 
 
-for fname in glob.glob('data/*.csv'):
+for fname in glob.glob('data/city*.csv'):
     plot_data(fname)
 plt.show()

@@ -2,7 +2,7 @@ import glob
 import numpy as np
 import matplotlib.pyplot as plt
 
-for fname in glob.glob('data/*.csv'):
+for fname in glob.glob('data/city*.csv'):
     year = fname[23:27]
     print('Loading data for year ', year)
     data = np.loadtxt(fname, delimiter=',')
